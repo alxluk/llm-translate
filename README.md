@@ -49,8 +49,6 @@ python translator_app.py
 
 3. **Запустите приложение**:
 
-TODO Openrouter инструкция
-после чего
 ```powershell
 python translator_app.py
 ```
